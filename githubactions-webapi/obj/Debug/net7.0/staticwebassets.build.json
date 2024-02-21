@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oaMN9PXo8OrE7O0yrOoZluCOTzNBOzAxzrwd474lA6M=",
+  "Source": "githubactions-webapi",
+  "BasePath": "_content/githubactions-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
